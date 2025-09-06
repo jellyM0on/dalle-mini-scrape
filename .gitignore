@@ -1,5 +1,4 @@
 /outputs
-Pipfile.lock
 credentials.json
 token.pickle
 .env
