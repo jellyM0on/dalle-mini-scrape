@@ -27,3 +27,7 @@ python -m scrape --prompt "surrealism art" --end 5 --folder-id 12FolderID12
 - Make sure the `--folder-id` is the ID. For example, if the url is `https://drive.google.com/drive/folders/133232ABC?fbclid=ABCDEF`, the ID is only `133232ABC`. Do not include other params
 - The endpoint returns 9 images per call. For ~2000 images, this means the `--end` arg should be set to 223
 - The local copy of the file is deleted after upload
+
+### Sample Logs
+<img width="764" height="520" alt="Screenshot 2025-09-07 at 03 51 45" src="https://github.com/user-attachments/assets/cef8ef56-6c91-47b5-8080-3d9fe9ca13d4" />
+
